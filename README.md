@@ -33,3 +33,13 @@ The data department will:
    > A detail view on the features, renamed features and reasons for the use of them can be found here
 > - Final_Clean_output.xlsx
    > Cleaned data source with the selected features
+
+## Organization 
+
+We have used following link to organize our work. A link to the presentation is also available there. 
+
+https://www.notion.so/ainara-guerra/Mid-project-Group-7-f9536378e8c943c3b1bdefd7f52d7e2a
+
+## Link to presentation
+
+https://docs.google.com/presentation/d/19wk3meRTxbMD0kmnb3qhNHLrrnbNKvVKzyQoIooruL0/edit#slide=id.g218aaca9f5f_0_154
