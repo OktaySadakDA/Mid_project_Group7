@@ -16,18 +16,20 @@ The data department will:
  
 ## Documents present in the repository
 
- - fifa21_male2.csv 
-  >> It is the raw data
- - DATA_EXPLORATION.ipynb
-  >> Contains the cleaning data, and explorations codes
-  >> Here an histogram, distribution and boxplot graph as well a correlation graph can be found
- - GRUOUP7_MODEL_PRICE_PREDICTION.ipynb
-  >> First version of the model
- - GRUOUP7_MODEL_PRICE_PREDICTION_2.ipynb
-  >> Second version of the model
- - GRUOUP7_MODEL_PRICE_PREDICTION_3.ipynb
-  >> Third version of the model
- - GRUOUP7_MODEL_PRICE_PREDICTION_4.ipynb
-  >> Last version of the model. Here the resulst can be found
- - columns_meaning-mid-project.xlsx
-  >> A detail view on the features, renamed features and reasons for the use of them can be found here
+> - fifa21_male2.csv 
+   > It is the raw data
+> - DATA_EXPLORATION.ipynb
+   > Contains the cleaning data, and explorations codes
+   > Here an histogram, distribution and boxplot graph as well a correlation graph can be found
+> - GRUOUP7_MODEL_PRICE_PREDICTION.ipynb
+   > First version of the model
+> - GRUOUP7_MODEL_PRICE_PREDICTION_2.ipynb
+   > Second version of the model
+> - GRUOUP7_MODEL_PRICE_PREDICTION_3.ipynb
+   > Third version of the model
+> - GRUOUP7_MODEL_PRICE_PREDICTION_4.ipynb
+   > Last version of the model. Here the resulst can be found
+> - columns_meaning-mid-project.xlsx
+   > A detail view on the features, renamed features and reasons for the use of them can be found here
+> - Final_Clean_output.xlsx
+   > Cleaned data source with the selected features
